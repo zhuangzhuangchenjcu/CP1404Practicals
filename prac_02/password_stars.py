@@ -5,7 +5,7 @@ def main():
     password = get_password()
     show_password(password)
 
-
+ 
 def show_password(password):
     print('*' * len(password))
 
