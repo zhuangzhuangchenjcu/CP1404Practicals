@@ -6,7 +6,7 @@ Replace each `...` with your meaningful answer.
 ## What percentage of the lecture videos have you watched so far?
 
 50
-
+ 
 ## What time, location and duration have you scheduled to watch lecture videos?
 
 I usually watch it on my home computer, usually for half an hour.
