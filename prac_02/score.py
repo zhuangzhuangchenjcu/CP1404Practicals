@@ -8,7 +8,7 @@ def score():
     score = float(input("Enter score:"))
     result = evaluate_score(score)
     print(result)
-
+ 
     random_score = random.uniform(0, 100)
     random_result = evaluate_score(random_score)
     print(f"Random score: {random_score:.2f} - {random_result}")
