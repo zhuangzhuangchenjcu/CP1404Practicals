@@ -37,7 +37,7 @@ def score_menu():
                             print("Score must be between 0 and 100. Please try again.")
                     except ValueError:
                         print("Invalid input. Please enter a number.")
-
+ 
             def evaluate_score(score):
                 if score < 0 or score > 100:
                     return "Invalid score"
