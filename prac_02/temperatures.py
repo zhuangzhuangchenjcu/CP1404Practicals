@@ -30,7 +30,7 @@ def main():
         choice = input(">>> ").upper()
     print("Thank you.")
 
-
+ 
 def convert_fahrenheit_to_celsius(fahrenheit):
     celsius = 5 / 9 * (fahrenheit - 32)
     return celsius
