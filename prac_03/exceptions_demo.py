@@ -7,7 +7,7 @@ The input is not a number.
 Denominator is 0.
 3. Could you change the code to avoid the possibility of a ZeroDivisionError?
 """
-
+ 
 try:
     numerator = int(input("Enter the numerator: "))
     denominator = int(input("Enter the denominator: "))
