@@ -7,7 +7,7 @@ MIN_LENGTH = 2
 MAX_LENGTH = 6
 SPECIAL_CHARS_REQUIRED = False
 SPECIAL_CHARACTERS = "!@#$%^&*()_-=+`~,./'[]<>?{}|\\"
-
+ 
 
 def main():
     """Program to get and check a user's password."""
