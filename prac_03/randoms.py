@@ -7,4 +7,4 @@ print(random.uniform(2.5, 5.5))
 #  2.5  5.49999999
 import random
 x = random.randint(1,101)
-print(x)
+print(x) 
