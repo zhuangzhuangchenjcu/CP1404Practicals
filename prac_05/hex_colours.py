@@ -9,4 +9,4 @@ COLOUR_CODES = {"absolute zero": "#0048ba", "acid green": "#b0bf1a",
 colour_name = input("Enter a colour name: ").lower()
 while colour_name != "":
     print(f"The code for \"{colour_name}\" is {COLOUR_CODES.get(colour_name)}")
-    colour_name = input("Enter a colour name: ").lower()
+    colour_name = input("Enter a colour name: ").lower() 
