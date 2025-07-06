@@ -3,7 +3,7 @@ CP1404 Practical
 Car class
 Author: CHENZHUANGZHUANG
 """
-
+ 
 
 class Car:
 
