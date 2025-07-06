@@ -6,7 +6,7 @@ Author: CHENZHUANGZHUANG
 
 from prac_06.car import Car
 
- 
+  
 def main():
     my_car = Car("My car", 180)
     my_car.drive(30)
