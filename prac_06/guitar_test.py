@@ -3,7 +3,7 @@ CP1404 Practical
 Guitar test
 Author: CHENZHUANGZHUANG
 """
-
+ 
 
 from guitar import Guitar
 
