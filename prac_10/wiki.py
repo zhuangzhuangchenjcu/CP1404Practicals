@@ -1,4 +1,4 @@
-import wikipedia
+import wikipedia 
 
 
 def search_wikipedia():
@@ -31,3 +31,4 @@ def search_wikipedia():
 
 if __name__ == "__main__":
     search_wikipedia()
+
