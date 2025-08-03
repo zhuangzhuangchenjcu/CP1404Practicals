@@ -12,7 +12,7 @@ My estimate accuracy typically starts lower during the initial stages of develop
 but improves significantly as the process progresses. Initially, estimates might be
 less precise due to unoptimized code or incomplete data processing. However, through debugging,
 optimization, and iterative testing, the accuracy improves.
-### How did your estimate accuracy improve or change during the course of the subject?
+### How did your estimate accuracy improve or change during the course of the subject? 
 Early estimates may be less accurate due to unoptimized code or logic errors.
 Fixing bugs and refining logic helps improve initial accuracy.
 ...
